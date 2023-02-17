@@ -14,16 +14,15 @@
 
 - pip install -r requirements.txt
 
-### [ Usage ]  
-
-![image](https://user-images.githubusercontent.com/101464787/219642032-03587b49-3c7c-48a2-98dc-cf6c35628e8f.png)
-
 ### [ Info ]
 
 [TR] Dorkmatic ilgili hedef de uyguladığı her bir dork için ekranda sadece ilk 10 hedefi göstermektedir.
 
 [TR] İlgili hedef için dork listesinde sadece hedef odaklı dorkların belirtilmesi gerekmektedir.
 
+### [ Usage ]  
+
+![image](https://user-images.githubusercontent.com/101464787/219642032-03587b49-3c7c-48a2-98dc-cf6c35628e8f.png)
 
 
 
