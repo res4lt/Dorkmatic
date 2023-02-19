@@ -1,6 +1,6 @@
 # Dorkmatic
 
-[TR] Her bir google dork'u ilgili hedefe uygular ve sonuçları gösterir.
+[TR] Hedef odaklı google dorklarını ilgili hedefe uygular ve sonuçları gösterir.
 
 [EN] "Dorkmatic" applies each Google dork to the target and displays the corresponding results.
 
