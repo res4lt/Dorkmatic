@@ -12,6 +12,8 @@
 
 - cd Dorkmatic/
 
+- chmod +x dorkmatic.py
+
 - pip install -r requirements.txt
 
 ### [ Info ]
