@@ -15,7 +15,7 @@
 
 - pip install -r requirements.txt
 
-### - Google Chrome uygulamasının yüklü olması gerekmektedir!
+### [ ! ] Google Chrome uygulamasının yüklü olması gerekmektedir!
 
 
 ### [ Info ]
