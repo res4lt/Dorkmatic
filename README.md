@@ -16,6 +16,8 @@
 
 - pip install -r requirements.txt
 
+[ Linux isletim sisteminizde google chrome tarayicinizin kurulu olmasi gerekmektedir! ]
+
 ### [ Info ]
 
 [TR] Dorkmatic ilgili hedef de uyguladığı her bir dork için ekranda sadece ilk 10 hedefi göstermektedir.
