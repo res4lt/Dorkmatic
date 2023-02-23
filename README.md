@@ -16,7 +16,9 @@
 
 - pip install -r requirements.txt
 
-[ Linux isletim sisteminizde google chrome tarayicinizin kurulu olmasi gerekmektedir! ]
+[ Aracın çalışabilmesi için işletim sisteminizde google chrome uygulamasının kurulu olması gerekmektedir! ]
+
+[ Windows da kullanabilmeniz için curl aracı ile aynı şekilde google chrome'un bulunması gerekmektedir! ]
 
 ### [ Info ]
 
