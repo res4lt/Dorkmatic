@@ -18,8 +18,6 @@
 
 *** Aracın çalışabilmesi için işletim sisteminizde google chrome uygulamasının kurulu olması gerekmektedir!
 
-*** Windows da kullanabilmeniz için curl aracı ile aynı şekilde google chrome'un bulunması gerekmektedir!
-
 ### [ Info ]
 
 [TR] Dorkmatic ilgili hedef de uyguladığı her bir dork için ekranda sadece ilk 10 hedefi göstermektedir.
